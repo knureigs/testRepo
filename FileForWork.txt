@@ -11,3 +11,4 @@ For commit to develop, task1.
 task on develop
 
 Content by dev1.
+Content by dev1. New.
