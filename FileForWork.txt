@@ -1,10 +1,1 @@
-Some text content. For initial commit.
-For 2nd commit.
-For 3rd commit. By other author.
-For 4th commit.
-For 5th commit. By other author.
-For 6th commit.
-For 7th commit. With bad description.
-Content for conflict at rebase.
-For commit to develop, task1.
-task on develop
+New content bu dev2.
